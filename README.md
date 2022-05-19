@@ -1,4 +1,4 @@
-# Spring Boot - JWP
+# Spring Boot - JWT
 
 ### Intro
 Spring Boot, Spring Security를 활용한 JWT 인증과 인가 처리 구현
